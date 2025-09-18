@@ -1,12 +1,10 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&text=Prem%20Kumar&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Electronics%20Engineer%20%7C%20IoT%20Developer%20%7C%20Team%20Manager&descAlignY=55&descAlign=50" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=header&text=Prem%20Kumar&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I'm Prem Kumar  
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=⚡+Electronics+Engineer;🌍+IoT+Developer;🤝+Team+Leader;🚀+Embedded+Systems+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=⚡+Electronics+Engineer;🌍+IoT+Developer;🤝+Team+Leader;🚀+Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,22 +29,7 @@
 
 ---
 
-## 🤝 Team & Project Management  
-✅ Led teams in **IoT and Electronics projects**  
-✅ Skilled in **Agile project management & task delegation**  
-✅ Effective **collaboration & communication** with cross-functional teams  
-✅ Mentored peers from **idea → prototype → demo**  
-
----
-
-## 📂 Featured Projects  
-- 🌍 **Air Quality & Weather Monitoring System** – IoT-based real-time monitoring with ESP32, MQ135, and ThingSpeak.  
-- ⚡ **Smart Transformer System** – Embedded system with real-time fault detection and OLED display.  
-- 🏥 **Hospital Management Prototype** – Digital monitoring & automated alert system.  
-
----
-
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
@@ -65,4 +48,4 @@
 ---
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=92FE9D&height=100&section=footer)

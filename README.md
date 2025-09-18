@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=90&section=header&text=PREMKUMAR&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=90&section=header&text=PREM%20KUMAR%20S&fontSize=32&fontColor=ffffff"/>
 
 <!-- Typing Intro -->
 <div align="center">
@@ -64,6 +64,25 @@ A **web-based application** for managing pharmacy operations:
 - ✅ Features: **Order Management, Medicine Inventory, Reports**
 - ✅ Built with **PHP, MySQL, HTML, CSS**
 
+---
+
+## 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/prem-kumar-9b0025290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/PraveenKumar05-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <!-- Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF,92FE9D&height=90&section=footer"/>

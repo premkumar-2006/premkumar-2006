@@ -1,7 +1,7 @@
 <!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=header&text=Prem%20Kumar&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=header&text=Prem%20Kumar%20S&fontSize=30&fontColor=ffffff)
 
-# 👋 Hi, I'm Prem Kumar  
+# 👋 Hi, I'm Prem Kumar S  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=⚡+Electronics+Engineer;🌍+IoT+Developer;🤝+Team+Leader;🚀+Embedded+Systems+Enthusiast" alt="Typing SVG" />
@@ -42,10 +42,10 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-kumar-9b0025290)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem%20Kumar%20S-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prem-kumar-9b0025290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🔗 Direct profile: https://www.linkedin.com/in/prem-kumar-9b0025290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 📧 Email: **premkumarsanjay2006@gmail.com**  
 
 ---
 
-<!-- Animated Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=92FE9D&height=100&section=footer)

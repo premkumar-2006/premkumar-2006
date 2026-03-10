@@ -1,6 +1,6 @@
 <!-- WAVE HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Prem%20Kumar%20S&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&animation=twinkling"/>
 
 <h1 align="center">Hi 👋 I'm Prem Kumar S</h1>
 

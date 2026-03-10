@@ -1,6 +1,6 @@
-<!-- WAVE HEADER -->
+<!-- WAVE HEADER (SHORT HEIGHT) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&animation=twinkling"/>
 
 <h1 align="center">Hi 👋 I'm Prem Kumar S</h1>
 
@@ -121,6 +121,6 @@
 
 ---
 
-<!-- WAVE FOOTER -->
+<!-- WAVE FOOTER (SHORT HEIGHT) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=90&section=footer"/>

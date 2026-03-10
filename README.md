@@ -1,4 +1,6 @@
-<!-- PROFILE HEADER -->
+<!-- WAVE HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Prem%20Kumar%20S&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
 <h1 align="center">Hi 👋 I'm Prem Kumar S</h1>
 
@@ -28,7 +30,7 @@
 
 * 🎓 Electronics and Communication Engineering Student
 * 🤖 Passionate about **IoT, Embedded Systems & AI**
-* 🛠 Working on **Smart Transformer Monitoring System**
+* 🛠 Working on **Smart Transformer Phase Failure & Geo Alert System**
 * 🚁 Developed **Drone Assisted Intelligent Honey Harvesting System**
 * 🏆 Best Participant Award – **M.Kumaramasamy College of Engineering**
 * 👨‍💼 Team Leader & Innovation Enthusiast
@@ -52,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -69,6 +71,16 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=premkumar2006&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2006&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -106,3 +118,9 @@
 ## ⭐ Quote
 
 > **"Building Smart Systems for a Smarter Future"**
+
+---
+
+<!-- WAVE FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>

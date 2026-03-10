@@ -1,4 +1,4 @@
-<!-- WAVE HEADER (SHORT HEIGHT) -->
+<!-- WAVE HEADER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header&animation=twinkling"/>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/prem-kumar-9b0025290" target="_blank">
+<a href="https://www.linkedin.com/in/prem-kumar-9b0025290">
 <img src="https://img.shields.io/badge/LinkedIn-Prem%20Kumar%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -54,58 +54,63 @@
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=premkumar2006&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=premkumar2006&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2006&layout=compact&theme=tokyonight"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar2006&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=premkumar2006&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=premkumar2006&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2006&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumar2006&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=premkumar2006&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=premkumar2006&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-🚀 Smart Transformer Phase Failure & Geo Alert System
-🚁 Drone Assisted Intelligent Honey Harvesting
-🌾 AI Crop Disease Detection System
-📡 IoT Smart Agriculture Monitoring System
+🚀 **Smart Transformer Phase Failure & Geo Alert System**
+
+🚁 **Drone Assisted Intelligent Honey Harvesting**
+
+🌾 **AI Crop Disease Detection System**
+
+📡 **IoT Smart Agriculture Monitoring System**
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
@@ -121,6 +126,6 @@
 
 ---
 
-<!-- WAVE FOOTER (SHORT HEIGHT) -->
+<!-- WAVE FOOTER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=90&section=footer"/>
